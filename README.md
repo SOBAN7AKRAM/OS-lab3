@@ -4,7 +4,7 @@
 
 - Create a two files one named file.txt and other is soban.txt
 
-  ![pic7](./Pictures\pic7.png)
+  ![pic7](Pictures\pic7.png)
 
 - Insert data into files
 
