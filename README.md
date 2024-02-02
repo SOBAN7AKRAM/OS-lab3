@@ -12,4 +12,6 @@
 
 ![pic2](..\Pictures\pic2.png)
 
-![pic1](D:\OS\OS-lab3\Pictures\pic1.png)
+![pic1](../OS-lab3\Pictures\pic1.png)
+
+![pic1](./OS-lab3\Pictures\pic1.png)
