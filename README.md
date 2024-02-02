@@ -8,4 +8,4 @@
 
 - Insert data into files
 
-  ![pic8](D:\OS\OS-lab3\Pictures\pic8.png)
+  ![pic8](Pictures\pic8.png)
